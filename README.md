@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutahKim&count_private=true&show_icons=true&theme=cobalt)](https://github.com/YutaKim/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutahKim&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutahKim&layout=compact&langs_count=18&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YutahKim&theme=cobalt&border_radius=5.8)](https://git.io/streak-stats)
 
