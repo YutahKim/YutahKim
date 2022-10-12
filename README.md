@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI, Fullstack development, and complex algorithms
 - 🌱 I’m currently learning p5js, tensorflow
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutahKim&count_private=true&show_icons=true&theme=cobalt)](https://github.com/YutaKim/github-readme-stats)
+[![Yutah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutahKim&count_private=true&show_icons=true&theme=radical)](https://github.com/YutaKim/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutahKim&layout=compact&langs_count=18&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutahKim&layout=compact&langs_count=18&theme=radical)](https://github.com/YutahKim/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YutahKim&theme=cobalt&border_radius=5.8)](https://git.io/streak-stats)
 
@@ -39,6 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :man_technologist: Activity :
+[![Yutah's github activity graph](https://activity-graph.herokuapp.com/graph?username=YutahKim&theme=react-dark&line=A7034F&point=19010C)](https://github.com/YutahKim/github-readme-activity-graph)
 
 <!---
 YutahKim/YutahKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
