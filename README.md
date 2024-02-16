@@ -40,9 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :man_technologist: Activity :
-[![Yutah's github activity graph](https://activity-graph.herokuapp.com/graph?username=YutahKim&theme=react-dark&line=A7034F&point=19010C)](https://github.com/YutahKim/github-readme-activity-graph)
-
 <!---
 YutahKim/YutahKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
